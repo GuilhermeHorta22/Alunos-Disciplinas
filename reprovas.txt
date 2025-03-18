@@ -1,0 +1,10 @@
+
+Nome do aluno: Andressa Vericode
+Nao ha reprovas!
+
+Nome do aluno: guilherme
+Materia reprovada: GISI
+Media: 5.5
+
+Nome do aluno: Ruan
+Nao ha reprovas!
