@@ -15,8 +15,8 @@ char menuPrincipal(void) //ok
     consolePrintf("esquerda", "branco", 0, "[A] - Alunos");
     consolePrintf("esquerda", "branco", 1, "[B] - Disciplinas");
     consolePrintf("esquerda", "branco", 2, "[C] - Relatorios");
-    consolePrintf("esquerda", "vermelho", 3, "[S] - Salvar Mudanacas");
-    consolePrintf("esquerda", "branco", 4, "[ESC] - Sair");
+    consolePrintf("esquerda", "branco", 3, "[S] - Salvar Mudancas");
+    consolePrintf("esquerda", "vermelho", 4, "[ESC] - Sair");
 	return toupper(getch());
 }
 
